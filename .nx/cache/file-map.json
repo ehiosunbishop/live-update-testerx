@@ -80,15 +80,87 @@
       },
       {
         "file": "angular.json",
-        "hash": "8308502821971415850"
+        "hash": "14983276163348353732"
       },
       {
         "file": "capacitor.config.ts",
-        "hash": "14757896856332250906"
+        "hash": "5126213858091652208"
       },
       {
         "file": "ionic.config.json",
         "hash": "6831971708902199079"
+      },
+      {
+        "file": "ios/.gitignore",
+        "hash": "7320921161647232324"
+      },
+      {
+        "file": "ios/App/App.xcodeproj/project.pbxproj",
+        "hash": "9770355826055980893"
+      },
+      {
+        "file": "ios/App/App.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+        "hash": "1121729896424732029"
+      },
+      {
+        "file": "ios/App/App.xcworkspace/contents.xcworkspacedata",
+        "hash": "5267424201368556030"
+      },
+      {
+        "file": "ios/App/App.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+        "hash": "12722229457274558422"
+      },
+      {
+        "file": "ios/App/App/AppDelegate.swift",
+        "hash": "10885055232217572631"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png",
+        "hash": "15912141732076635821"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json",
+        "hash": "8592742828066986329"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Contents.json",
+        "hash": "5990803069847060607"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/Contents.json",
+        "hash": "9385842541853943677"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-1.png",
+        "hash": "3237967808663258630"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732-2.png",
+        "hash": "3237967808663258630"
+      },
+      {
+        "file": "ios/App/App/Assets.xcassets/Splash.imageset/splash-2732x2732.png",
+        "hash": "3237967808663258630"
+      },
+      {
+        "file": "ios/App/App/Base.lproj/LaunchScreen.storyboard",
+        "hash": "12402387980291643647"
+      },
+      {
+        "file": "ios/App/App/Base.lproj/Main.storyboard",
+        "hash": "14085817207643424634"
+      },
+      {
+        "file": "ios/App/App/Info.plist",
+        "hash": "3356184177017127855"
+      },
+      {
+        "file": "ios/App/Podfile",
+        "hash": "11886726004423803665"
+      },
+      {
+        "file": "ios/App/Podfile.lock",
+        "hash": "17841640284207601646"
       },
       {
         "file": "karma.conf.js",
@@ -96,11 +168,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "15153748258745282339"
+        "hash": "13673671400354389475"
       },
       {
         "file": "package.json",
-        "hash": "15544698541119620975"
+        "hash": "2505568490234500456"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -120,7 +192,7 @@
       },
       {
         "file": "src/app/app.component.ts",
-        "hash": "3298285516620454244"
+        "hash": "427512771568369046"
       },
       {
         "file": "src/app/app.module.ts",
@@ -136,7 +208,7 @@
       },
       {
         "file": "src/app/home/home.page.html",
-        "hash": "15164507581355981925"
+        "hash": "8590260819339489615"
       },
       {
         "file": "src/app/home/home.page.scss",
@@ -188,7 +260,7 @@
       },
       {
         "file": "src/app/view-message/view-message.page.html",
-        "hash": "17528067034661315579"
+        "hash": "3499667582346655878"
       },
       {
         "file": "src/app/view-message/view-message.page.scss",
@@ -257,6 +329,10 @@
       {
         "file": "tsconfig.spec.json",
         "hash": "17198424518534092990"
+      },
+      {
+        "file": "www.zip",
+        "hash": "1230190391063745855"
       }
     ]
   }
